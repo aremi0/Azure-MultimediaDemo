@@ -1,4 +1,4 @@
-# 3. Provisionare un cluster AKS
+# 3. Provisioning di un cluster AKS
 
 Il **pool di sistema** in AKS è dove girano i componenti fondamentali di Kubernetes, come:
 

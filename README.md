@@ -5,7 +5,7 @@
 0. [Contesto](./chapters/0_contesto.md)
 1. [Creare un account Azure e preparare l’ambiente locale](./chapters/1_creazione_account_configurazione_ambiente_locale.md)
 2. [Creare Resource Group (SR) e Azure Container Registry (ACR)](./chapters/2_creazione_sr_creazione_acr.md)
-3. [Provising cluster AKS in modalità mista](./chapters/3_provisioning_cluster_aks.md)
+3. [Provisiong cluster AKS in modalità mista](./chapters/3_provisioning_cluster_aks.md)
 4. []()
 5. []()
 6. []()
