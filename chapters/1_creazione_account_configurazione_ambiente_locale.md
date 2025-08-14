@@ -2,7 +2,7 @@
 
 1. Vai su [https://azure.microsoft.com/free](https://azure.microsoft.com/free) e registra il tuo account gratuito. Otterrai 200 USD di credito iniziale.
 
-2. Installa Azure CLI:
+2. Installa Azure CLI, apri *powershell* come amministratore:
 
    ```bash
    $ProgressPreference = 'SilentlyContinue'; Invoke-WebRequest -Uri https://aka.ms/installazurecliwindowsx64 -OutFile .\AzureCLI.msi; Start-Process msiexec.exe -Wait -ArgumentList '/I AzureCLI.msi /quiet'; Remove-Item .\AzureCLI.msi
