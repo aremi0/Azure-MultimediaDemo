@@ -39,7 +39,7 @@ az aks nodepool add \
   --mode User
 ```
 
-Questo pool è dove **deployi i tuoi servizi** Spring, Redis, Keycloak, ecc...
+Questo pool è dove saranno **deployati i servizi** Spring, Redis, Keycloak, ecc...
 
 #### 🔍 Perché è vantaggioso?
 
